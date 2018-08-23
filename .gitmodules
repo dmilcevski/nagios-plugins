@@ -1,6 +1,6 @@
 [submodule "lib"]
 	path = lib
-	url = https://github.com/harisekhon/lib
+	url = https://github.com/dmilcevski/lib
 	branch = master
 [submodule "pylib"]
 	path = pylib
