@@ -13,3 +13,4 @@
 [submodule "haproxy-configs"]
 	path = haproxy-configs
 	url = https://github.com/harisekhon/haproxy-configs
+	branch = master
